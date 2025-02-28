@@ -1,1 +1,1 @@
-# Abood Nostr Check
+# Abood Nostr Checker
